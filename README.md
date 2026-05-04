@@ -33,7 +33,7 @@ print(f"Is 123 a happy number? {result}") # Output: False
 The script includes simple `assert` statements at the bottom. To verify the logic is working correctly, simply run the script from your terminal:
 
 ```bash
-python happy_numbers.py
+python src/main.py
 ```
 
 If the script runs without outputting any errors, all tests have passed successfully.
